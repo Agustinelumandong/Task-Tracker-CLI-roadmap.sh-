@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and cook dinner",
+    "status": "done",
+    "createdAt": "2024-12-28 10:07:02",
+    "updatedAt": "2024-12-28 16:03:51"
+  },
+  {
+    "id": 2,
+    "description": "Mroorn",
+    "status": "in-progress",
+    "createdAt": "2024-12-28 10:07:11",
+    "updatedAt": "2024-12-28 10:07:11"
+  },
+  {
+    "id": 3,
+    "description": "kaon",
+    "status": "todo",
+    "createdAt": "2024-12-28 10:18:28",
+    "updatedAt": "2024-12-28 10:18:28"
+  },
+  {
+    "id": 4,
+    "description": "coding",
+    "status": "done",
+    "createdAt": "2024-12-28 10:31:09",
+    "updatedAt": "2024-12-28 10:31:09"
+  },
+  {
+    "id": 5,
+    "description": "Coding Task Tracker CLI",
+    "status": "done",
+    "createdAt": "2024-12-28 16:17:49",
+    "updatedAt": "2024-12-28 16:20:57"
+  }
+]
